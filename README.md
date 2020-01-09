@@ -1,6 +1,7 @@
 # bootstrap-portfolio
 
 Homework #2: Bootstrap Portfolio
+
 This is the re-work of the initial homework assignment for the UNC Coding Bootcamp.
 
 Overview
